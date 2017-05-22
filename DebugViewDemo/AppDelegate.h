@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  DebugViewDemo
 //
-//  Created by Memebox on 16/10/31.
+//  Created by Justin on 16/10/31.
 //  Copyright © 2016年 Justin. All rights reserved.
 //
 
@@ -12,6 +12,7 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+@property(nonatomic,strong) UITabBarController *mainTabBarController;
 
 @end
 
